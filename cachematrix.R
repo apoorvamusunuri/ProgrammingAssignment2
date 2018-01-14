@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-library(matlab)
+
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
   set <- function(y) {
